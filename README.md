@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadeesh Gunarathne</h1>
 <h3 align="left">A passionate frontend developer & UI/UX designer from Srilanka</h3>
+<h2 align="left">Passionate Frontend Developer & UI/UX Designer with a keen eye for aesthetics and functionality. I specialize in crafting responsive, user-friendly web interfac</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshm&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshm" /> </p>
 
