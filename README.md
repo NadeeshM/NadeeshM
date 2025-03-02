@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadeesh Gunarathne</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeeshm&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshm" /> </p>
 <!-- <h3 align="left">A passionate frontend developer & UI/UX designer from Srilanka</h3> -->
-<h4 align="left">Passionate Frontend Developer & UI/UX Designer with a keen eye for aesthetics and functionality. I specialize in crafting responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. With a strong background in UI/UX design, I focus on creating intuitive and visually compelling digital experiences that enhance user engagement. Always exploring new design trends and front-end innovations to build seamless and high-performing web applications.</h4>
+<h4 align="left">  I'm a Passionate Frontend Developer & UI/UX Designer with a keen eye for aesthetics and functionality. I specialize in crafting responsive, user-friendly web interfaces using modern technologies like React, JavaScript, and CSS. With a strong background in UI/UX design, I focus on creating intuitive and visually compelling digital experiences that enhance user engagement. Always exploring new design trends and front-end innovations to build seamless and high-performing web applications.</h4>
 
 - - -
 
